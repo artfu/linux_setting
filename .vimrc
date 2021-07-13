@@ -21,7 +21,7 @@ set wrap
 set scrolloff=5
 set laststatus=2
 set ruler
-			\
+
 " Edit
 set nobackup
 set noswapfile
